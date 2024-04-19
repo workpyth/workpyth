@@ -1,6 +1,6 @@
 - Hi, I’m Kerana
 - I'm a furry artist
-- All information about commissions, art queue and contact are found in my "INFO" repository
+- All information about commissions, art queue and contact are found in "INFO"
 - eng / pt / sp / hr
 
 <!---
