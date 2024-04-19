@@ -1,4 +1,5 @@
 - Pricing & other TOS are found under the **INFO** repository
+- My public art queue is found under **PROJECTS** 
 - Contacts are found directly on my profile ; feel free to ask me any questions
 - eng / pt / sp / hr
 
