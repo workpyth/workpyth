@@ -1,4 +1,5 @@
-- All information about commissions, art queue and contact are found in "INFO"
+- Pricing & other TOS are found under the **INFO** repository
+- Contacts are found directly on my profile ; feel free to ask me any questions
 - eng / pt / sp / hr
 
 <!---
